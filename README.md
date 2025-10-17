@@ -1,6 +1,6 @@
 # 👋🏾 Hey, I’m Keith
 
-> “The best solutions are built with empathy and evidence — and data science lets me deliver both.”
+> “The best solutions are built with empathy and evidence; Data science lets me deliver both.”
 
 ## 🎓 **Senior @ University of North Texas | B.S. Data Science, Minor in Computer Science**  
 💻 **Previous Data Science/Analytics Intern @ Autodesk (Summer 2025)**  
@@ -20,12 +20,20 @@ I’m also part of **MLT** and **ColorStack**, communities that connect diverse 
 
 ---
 
+## 🌐 Let’s Connect  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/washkeith/)
+[![Email](https://img.shields.io/badge/Email-keithhwash%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keithhwash@gmail.com)
+
+---
+
 ## ⚙️ Tech Stack  
 
 ### 🧩 Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### 📊 Data & Visualization  
@@ -33,9 +41,9 @@ I’m also part of **MLT** and **ColorStack**, communities that connect diverse 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-### ☁️ Cloud & Data Engineering  
+### ☁️ Cloud & Data Engineering
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
@@ -52,13 +60,6 @@ I’m also part of **MLT** and **ColorStack**, communities that connect diverse 
 - Overlap of Cybersecurity & Analytics
 - AI-driven data operations (LLMs + analytics)  
 - Data storytelling through BI & Visualization  
-
----
-
-## 🌐 Let’s Connect  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/washkeith/)
-[![Email](https://img.shields.io/badge/Email-keithhwash%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keithhwash@gmail.com)
 
 ---
 
