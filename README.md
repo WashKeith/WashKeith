@@ -2,7 +2,7 @@
 
 > “The best solutions are built with empathy and evidence — and data science lets me deliver both.”
 
-🎓 **Senior @ University of North Texas | B.S. Data Science, Minor in Computer Science**  
+## 🎓 **Senior @ University of North Texas | B.S. Data Science, Minor in Computer Science**  
 💻 **Previous Data Science/Analytics Intern @ Autodesk (Summer 2025)**  
 📈 **Previous Technical Product Management Intern @ Vibes Meet (Spring 2025)**  
 💻 **Previous Data Science/Analytics Intern @ Wabtec (Summer 2024)**  
@@ -13,7 +13,7 @@
 
 ## 🧠 About Me  
 I’m a data-driven problem solver passionate about using technology to create real-world impact.  
-With a background in **Data Science** and **Computer Science**, I love bridging the gap between people and data — from designing ETL workflows to translating insights into strategy.  
+With a background in **Data Science** and **Computer Science**, I love bridging the gap between people and data from designing ETL workflows to translating insights into strategy.  
 
 On campus, I serve as **Academic Excellence Chair for NSBE**, where I lead professional development workshops and internship prep initiatives.  
 I’m also part of **MLT** and **ColorStack**, communities that connect diverse talent to opportunities in tech.  
