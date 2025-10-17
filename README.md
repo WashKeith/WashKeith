@@ -57,7 +57,7 @@ I’m also part of **MLT** and **ColorStack**, communities that connect diverse 
 
 ## 🌐 Let’s Connect  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/keith-washington)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/washkeith/)
 [![Email](https://img.shields.io/badge/Email-keithhwash%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keithhwash@gmail.com)
 
 ---
