@@ -57,8 +57,8 @@ I’m also part of **MLT** and **ColorStack**, communities that connect diverse 
 ---
 
 ## 🚀 Currently Exploring  
-- Overlap of Cybersecurity & Analytics
-- AI-driven data operations (LLMs + analytics)  
+- Data Engineering
+- Cloud Engineering
 - Data storytelling through BI & Visualization  
 
 ---
