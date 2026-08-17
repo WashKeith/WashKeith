@@ -15,7 +15,7 @@
 I’m a data-driven problem solver passionate about using technology to create real-world impact.  
 With a background in **Data Science** and **Computer Science**, I love bridging the gap between people and data from designing ETL workflows to translating insights into strategy.  
 
-On campus, I serve as **Secretary for NSBE**, where I act as an administrating member and lead our Communications Zone.  
+On campus, I have served on the Executive Board for my National Society of Black Engineers chapter, where I acted as an Academic Excellence Chair to promote professional and educational growth in our members.  
 I’m also part of **MLT** and **ColorStack**, communities that connect diverse talent to opportunities in tech.  
 
 ---
