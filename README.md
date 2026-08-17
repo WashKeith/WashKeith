@@ -2,7 +2,8 @@
 
 > “The best solutions are built with empathy and evidence; Data science lets me deliver both.”
 
-## 🎓 **Senior @ University of North Texas | B.S. Data Science, Minor in Computer Science**  
+## 🎓 **M.S. Information Technology @ University of North Texas**
+**B.S. Data Science @ University of North Texas**  
 💻 **Previous Data Science/Analytics Intern @ Autodesk (Summer 2025)**  
 📈 **Previous Technical Product Management Intern @ Vibes Meet (Spring 2025)**  
 💻 **Previous Data Science/Analytics Intern @ Wabtec (Summer 2024)**  
